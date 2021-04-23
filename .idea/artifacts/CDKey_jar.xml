@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CDKey:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CDKey_jar</output-path>
+    <root id="archive" name="CDKey.jar">
+      <element id="module-output" name="CDKey" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

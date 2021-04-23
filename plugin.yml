@@ -1,0 +1,12 @@
+name: CDKey
+main: com.DawnDream.CDKey.main
+version: 1.0
+commands:
+  cdkReload:
+    usage: /cdkReload
+  cdk:
+    usage: /cdk
+
+permissions:
+  CDKs.admin:
+    default: op
